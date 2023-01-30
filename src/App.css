@@ -1,0 +1,16 @@
+@import url('http://fonts.googleapis.com/css?family=Lato:400,700');
+
+* {
+  text-align: center;
+  color: rgb(251, 220, 255);
+  font: Lato;
+  background-color: black;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+p {
+  color: rgba(251, 220, 255, 0.534);
+}
